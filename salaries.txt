@@ -1,0 +1,4 @@
+salaries=900
+salaries=90
+
+cat gogs
